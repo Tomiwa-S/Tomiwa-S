@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Tomiwa</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h3 align="center">A passionate web developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **C#, ASP.NET,API, Backend development**
+- 🌱 I’m currently learning **NESTJS, NEXTJS, Typescrupt,API, Fullstack development**
+- Some of my project repositories are private
 
 - 📫 How to reach me **timmeysam@gmail.com**
 
